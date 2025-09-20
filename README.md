@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ADI-0519/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ADI-0519/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0319-bulb-switcher](https://github.com/ADI-0519/Leetcode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/ADI-0519/Leetcode/tree/master/0412-fizz-buzz) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ADI-0519/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ADI-0519/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ADI-0519/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
