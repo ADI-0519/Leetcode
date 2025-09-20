@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ADI-0519/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADI-0519/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADI-0519/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ADI-0519/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ADI-0519/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADI-0519/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ADI-0519/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ADI-0519/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/ADI-0519/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADI-0519/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ADI-0519/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
