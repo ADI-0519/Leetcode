@@ -19,9 +19,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
 | [1894-merge-strings-alternately](https://github.com/ADI-0519/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
