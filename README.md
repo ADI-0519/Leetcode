@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ADI-0519/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
+| [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ADI-0519/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ADI-0519/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ADI-0519/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ADI-0519/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADI-0519/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
+| [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADI-0519/Leetcode/tree/master/0011-container-with-most-water) |
+| [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
