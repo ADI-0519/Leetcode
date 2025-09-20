@@ -124,14 +124,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/ADI-0519/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/ADI-0519/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/ADI-0519/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2384-root-equals-sum-of-children](https://github.com/ADI-0519/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/ADI-0519/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/ADI-0519/Leetcode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
