@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ADI-0519/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -122,9 +123,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/ADI-0519/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/ADI-0519/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
