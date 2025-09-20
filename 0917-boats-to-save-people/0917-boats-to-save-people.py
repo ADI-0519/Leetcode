@@ -5,16 +5,13 @@ class Solution:
         l,r = 0, len(people)-1
         count = 0
         while l <= r:
-            summ = (people[l]+people[r])
-
-            if summ <= limit:
-                count += 1
+            
+            if people[l]+people[r] <= limit:
                 l += 1
-                r -= 1
-
-            elif summ > limit:
-                count += 1
-                r -= 1
+                
+            r -= 1
+            count += 1
+            
 
 
         return count
