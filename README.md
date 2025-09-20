@@ -15,16 +15,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/ADI-0519/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
