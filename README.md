@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ADI-0519/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
+| [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ADI-0519/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [2048-build-array-from-permutation](https://github.com/ADI-0519/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ADI-0519/Leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ADI-0519/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADI-0519/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Tree
 |  |
 | ------- |
