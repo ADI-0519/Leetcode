@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ADI-0519/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ADI-0519/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ADI-0519/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADI-0519/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ADI-0519/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -221,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ADI-0519/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
