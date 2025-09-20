@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADI-0519/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ADI-0519/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/ADI-0519/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADI-0519/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ADI-0519/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ADI-0519/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ADI-0519/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/ADI-0519/Leetcode/tree/master/0412-fizz-buzz) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/ADI-0519/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ADI-0519/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
