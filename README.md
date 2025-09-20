@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ADI-0519/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ADI-0519/Leetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADI-0519/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ADI-0519/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ADI-0519/Leetcode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/ADI-0519/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
 ## Greedy
