@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ADI-0519/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ADI-0519/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ADI-0519/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ADI-0519/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ADI-0519/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ADI-0519/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ADI-0519/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ADI-0519/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ADI-0519/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/ADI-0519/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ADI-0519/Leetcode/tree/master/0143-reorder-list) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ADI-0519/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADI-0519/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ADI-0519/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ADI-0519/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ADI-0519/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ADI-0519/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
