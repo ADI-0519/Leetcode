@@ -11,14 +11,15 @@ class Solution:
 
         while l <= r:
             mid = (l+r) // 2
+            res = guess(mid)
             
-            if guess(mid) == 0:
-                return mid
+            if res == 1:
+                l = mid + 1
 
-            if guess(mid) == -1:
+            elif res == -1:
                 r = mid - 1
 
             else:
-                l = mid + 1
+                return mid
 
         
