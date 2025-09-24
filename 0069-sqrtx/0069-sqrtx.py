@@ -3,15 +3,16 @@ class Solution:
         
         if x < 2:
             return x
-        
-        left, right = 0, x
-        while left <= right:
-            middle = (right + left) // 2
-            
-            if middle * middle == x:
-                return middle
-            elif middle * middle < x:
-                left = middle + 1
+
+        l,r = 0,x
+
+        while l < r:
+            mid = l + (r-l) // 2
+
+            if mid * mid > x:
+                r = mid
+
             else:
-                right = middle - 1
-        return right 
+                l = mid + 1
+
+        return l-1
