@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ADI-0519/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ADI-0519/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1241-decompress-run-length-encoded-list](https://github.com/ADI-0519/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [2048-build-array-from-permutation](https://github.com/ADI-0519/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ADI-0519/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ADI-0519/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ADI-0519/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ADI-0519/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ADI-0519/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADI-0519/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
