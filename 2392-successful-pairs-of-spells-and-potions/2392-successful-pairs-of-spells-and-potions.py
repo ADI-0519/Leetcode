@@ -5,8 +5,7 @@ class Solution:
         n = len(potions)
         arr = []
         for element in spells:
-            l,r = 0,len(potions)-1
-
+            l,r = 0,n-1
             while l < r:
                 mid = l + (r-l) //2
 
