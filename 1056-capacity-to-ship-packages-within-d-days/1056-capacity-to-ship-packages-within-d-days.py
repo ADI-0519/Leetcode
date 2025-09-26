@@ -7,17 +7,18 @@ class Solution:
         def condition(limit):
             cnt = 0
             days_taken = 1
-            i = 0
-            while i < len(weights):
-                if (cnt+weights[i]) <= limit:
-                    cnt += weights[i]
-                    i += 1
+            
+            for element in weights:
 
-                else:
+                cnt += element
+                if cnt > limit:
+                    cnt = element
                     days_taken += 1
-                    cnt = 0
+
+                    if days_taken > days:
+                        return False
                     
-            return True if days_taken <= days else False  
+            return True
 
 
         l,r = max(weights), sum(weights)
