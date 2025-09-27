@@ -1,9 +1,14 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
         
-        total = sum(cardPoints[:k])
-        maxx = total
+        total = 0
+        maxx = 0
         n = len(cardPoints)
+
+        for i in range(k):
+            total += cardPoints[i]
+
+        maxx = total
 
         # begin sliding window
 
