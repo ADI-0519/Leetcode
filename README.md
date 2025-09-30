@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/ADI-0519/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/ADI-0519/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/ADI-0519/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/ADI-0519/Leetcode/tree/master/0861-flipping-an-image) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ADI-0519/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ADI-0519/Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/ADI-0519/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/ADI-0519/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ADI-0519/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ADI-0519/Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ADI-0519/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ADI-0519/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/ADI-0519/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Sliding Window
 |  |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
