@@ -1,17 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        brackets = {")":"(","}":"{","]":"["}
+        hashmap = {")":"(","}":"{","]":"["}
         stk = []
 
         for element in s:
-            if element in brackets:
-                if not stk or stk[-1] != brackets.get(element,None):
-                    return False
+            if element in hashmap.keys():
 
-                stk.pop()
+                if stk and stk[-1] == hashmap[element]:
+                    stk.pop()
+
+                else:
+                    return False
 
             else:
                 stk.append(element)
-            
+
         return True if len(stk) == 0 else False
