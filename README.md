@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ADI-0519/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/ADI-0519/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ADI-0519/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ADI-0519/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/ADI-0519/Leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/ADI-0519/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ADI-0519/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ADI-0519/Leetcode/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/ADI-0519/Leetcode/tree/master/0319-bulb-switcher) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ADI-0519/Leetcode/tree/master/0412-fizz-buzz) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ADI-0519/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ADI-0519/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ADI-0519/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Graph
 |  |
 | ------- |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/ADI-0519/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ADI-0519/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
