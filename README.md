@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ADI-0519/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ADI-0519/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ADI-0519/Leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ADI-0519/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ADI-0519/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADI-0519/Leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ADI-0519/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ADI-0519/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADI-0519/Leetcode/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ADI-0519/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ADI-0519/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/ADI-0519/Leetcode/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/ADI-0519/Leetcode/tree/master/0744-network-delay-time) |
@@ -324,4 +327,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ADI-0519/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ADI-0519/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ADI-0519/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
